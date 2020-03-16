@@ -1,3 +1,3 @@
 #
-# ~/work-in-progress/GitHub/pZone--ProjectWW-workspace/documents
+# pZone--ProjectWW-workspace/documents
 #

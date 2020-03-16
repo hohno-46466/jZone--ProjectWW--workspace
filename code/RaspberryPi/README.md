@@ -1,3 +1,3 @@
 #
-# ~/work-in-progress/GitHub/pZone--ProjectWW-workspace/code/RaspberryPi
+# pZone--ProjectWW-workspace/code/RaspberryPi
 #
