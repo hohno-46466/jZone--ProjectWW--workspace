@@ -4,7 +4,7 @@ Note: URL = https://github.com/hohno-46466/jZone--ProjectWW--workspace
 
 Note: URL = git@github.com:hohno-46466/jZone--ProjectWW--workspace.git
 
-     ./jZone--ProjectWW--workspace
+    ./jZone--ProjectWW--workspace
      ├──  README.md
      ├──  README.md.old
      ├──  code/
@@ -16,7 +16,7 @@ Note: URL = git@github.com:hohno-46466/jZone--ProjectWW--workspace.git
      └──  documents/
          └──  README.md
      
-     4 directories, 6 files (Tue Dec 20 21:47:23 JST 2022)
+     4 directories, 6 files (Wed Dec 21 23:58:53 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/jZone--ProjectWW--workspace
